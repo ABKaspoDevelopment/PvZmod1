@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "XXX",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "abkaspospvzmod:asphalt",
+      "data": 0
+    },
+    "X": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "abkaspospvzmod:graffitied_asphalt",
+    "data": 0,
+    "count": 6
+  }
+}

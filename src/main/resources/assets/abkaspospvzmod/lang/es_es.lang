@@ -1,0 +1,13 @@
+//items
+item.seed_pack.name=Paquete de semillas
+item.peashooter_pack.name=Lanza guizantes
+item.pea.name=Guizante
+//block
+tile.asphalt.name=Asfalto
+tile.graffitied_asphalt.name=Asfalto graffiteado
+tile.rotated_graffitied_asphalt.name=Asfalto graffiteado rotado
+tile.sidewalk.name=Vereda
+//creative tabs
+itemGroup.abkaspospvzblocks=Bloques de PvZ por ABKaspo
+itemGroup.abkaspospvzitems=Items de PvZ por ABKaspo
+itemGroup.abkaspofoodseed=Comida Y semillas de PvZ por ABKaspo

@@ -1,0 +1,13 @@
+//items
+item.seed_pack.name=Seed pack
+item.peashooter_pack.name=Peashooter pack
+item.pea.name=Pea
+//block
+tile.asphalt.name=Asphalt
+tile.graffitied_asphalt.name=Graffitied asphalt
+tile.rotated_graffitied_asphalt.name=Rotated graffitied asphalt
+tile.sidewalk.name=Sidewalk
+//creative tabs
+itemGroup.abkaspospvzblocks=ABKaspo's PvZ blocks
+itemGroup.abkaspospvzitems=ABKaspo's PvZ items
+itemGroup.abkaspofoodseed=ABKaspo's PvZ Food & Seeds

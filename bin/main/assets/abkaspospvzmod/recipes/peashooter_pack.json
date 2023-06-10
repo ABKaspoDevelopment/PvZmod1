@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "abkaspospvzmod:seed_pack",
+      "data": 0
+    },
+    {
+      "item": "abkaspospvzmod:pea",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "abkaspospvzmod:peashooter_pack"
+  }
+}
